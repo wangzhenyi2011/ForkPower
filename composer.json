@@ -1,0 +1,19 @@
+{
+    "name": "zy445566/fork-power",
+    "description": "A simple CLI tool for ensuring that a given php script runs continuously",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ZhangYuan",
+            "email": "zyct@vip.qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ForKPower\\": "src/ForKPower",
+        }
+    }
+}
