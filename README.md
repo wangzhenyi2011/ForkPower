@@ -10,12 +10,12 @@ $config = [
 "runLogPath"=>dirname(__FILE__).DIRECTORY_SEPARATOR."runLog",
 ];
 new ForkPower\ForkPower($config,$argv);
-```php
+```
 
 vim test.php
 ```php
 sleep(6000);
-```php
+```
 
 # start
 		php index.php start test.php >>test.log
