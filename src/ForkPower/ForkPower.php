@@ -1,6 +1,6 @@
 <?php
-namespace ForKPower;
-class ForKPower
+namespace ForkPower;
+class ForkPower
 {
 	public $config;
 
@@ -199,7 +199,7 @@ class ForKPower
 // "gid"=>"40",
 // "runLogPath"=>dirname(__FILE__).DIRECTORY_SEPARATOR."runLog",
 // ];
-// new ForKPower($config,$argv);
+// new ForkPower($config,$argv);
 
 
 
